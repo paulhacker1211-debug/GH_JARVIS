@@ -1,2 +1,14 @@
-# GH_JARVIS
-Personal AI Assistant by Rupam Paul
+# GH JARVIS
+
+Personal AI Assistant developed by Rupam Paul.
+
+## Features
+- AI Chat
+- Voice Assistant
+- Website Prompt Generator
+- Tournament Manager
+- Client Email Writer
+- Android Automation
+
+## Status
+🚧 Under Development
